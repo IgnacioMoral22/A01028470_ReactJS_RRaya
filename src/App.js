@@ -17,6 +17,10 @@ function App() {
         >
           Learn React
         </a>
+
+        <h1>Hello World</h1>
+        <h2>My Name is Ignacio Moral</h2>
+        <a href="https://www.youtube.com/watch?v=jzwuKToN0_Q">Ritmo Sideral</a>
       </header>
     </div>
   );
